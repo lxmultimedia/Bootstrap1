@@ -4,3 +4,5 @@ Basic Web Template
 - Basic CSS Grid
 - CSS Stylesheet
 - JQuery
+- Font Awesome
+- Bootstrap
